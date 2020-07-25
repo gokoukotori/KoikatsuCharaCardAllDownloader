@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KoikatsuCharaCardAllDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    }
+  }
+}
